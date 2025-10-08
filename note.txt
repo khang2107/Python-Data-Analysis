@@ -1,0 +1,9 @@
+Pandas
+- Work on Tabular data (Table)
+- Tools: DataFrame (2D table objects) & Series
+- Use: Organise data into rows & columns -> Display & deal with data
+
+NumPy
+- Work on Numerical data (numbers)
+- Tools: Arrays (one row or multi rows arrays)
+- Use: Calculate raw numbers
